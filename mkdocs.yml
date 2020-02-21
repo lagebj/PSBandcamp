@@ -1,0 +1,9 @@
+site_name: PSBandcamp
+repo_url: https://github.com/lagebj/PSBandcamp
+theme: readthedocs
+pages:
+  - Home: index.md
+  - PSBandcamp Basics:
+    - What is PSBandcamp: about.md
+    - Quick Start: Quick-Start-Installation-and-Example.md
+  - Acknowledgements: acknowledgements.md
